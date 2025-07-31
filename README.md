@@ -12,7 +12,7 @@ This is a responsive **Restaurant Order Page UI** built with **HTML5** and **CSS
 
 ## 📸 Preview
 
-![screenshot](https://via.placeholder.com/800x400.png?text=Restaurant+Order+Page+Preview)
+[https://dhinakaran-k-2.github.io/Restaurant-Order-page/]
 
 ## 🛠️ Technologies Used
 
